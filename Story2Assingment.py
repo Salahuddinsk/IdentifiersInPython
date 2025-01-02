@@ -60,7 +60,7 @@ print(cart[1]['name'])
 # Mom asked what was the last item we added to the cart
 print(cart[4]['brand'])
 
-# another way to see the last item
+# another way to see the last  item
 print(cart[-1]['name'])
 
 # Mom asked how many items we added in the cart
