@@ -48,7 +48,7 @@ If a teacher marks an attendance of the student who were present and absent toda
 attendence which cannot be changed afterwards and the next day that list will become tuple
 """
 
-# 7. Dictionary - key : value pairs -- (name is key : goat is value)
+# 7. Dictionary - key : value pairs -- (name is key : goat is value) "Dictionary ek data structure hai jisme value stores kar sakte hai key:value pairs me"
 
 Animal = {
     'name' : 'goat' ,
