@@ -1,16 +1,16 @@
 # Types of Variable
 
-# 1. Integers-- (remember while typing numbers  don't type quotations mark )
+# 1. Integers-- (remember while typing numbers  don't type quotations mark ) "Integers zero bhi hosakta hai positive negative or whole number no fraction part"
 age = 9
 weight = 70
 length = 20
 
-# 2. Float-- numbers can be typed using full stop
+# 2. Float-- numbers can be typed using full stop "Float me decimal numbers daal sakte hai"
 Percentage = 80.31
 Height = 6.5
 breadth = 9.11
 
-# 3. String (remember to use quotation mark or apostrophe )
+# 3. String (remember to use quotation mark or apostrophe ) "String matlab textual data"
 name = "Shaikh Salahuddin"
 place = 'Mumbai'
 experience = '5'
@@ -21,7 +21,7 @@ My age is 18
 I live in Mumbai
 """
 
-# 4 Boolean
+# 4 Boolean "uska result humlog choose kar sakte hai true ya to false"
 is_red_colour= True
 is_cat_animal= True
 is_one_a_number= True
