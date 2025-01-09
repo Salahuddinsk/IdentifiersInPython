@@ -68,3 +68,5 @@ print(cart[6])
 print('\n')
 for i in range (0,len(cart)):
     print(cart[i])
+
+# assingment do this forloop again by yourself
